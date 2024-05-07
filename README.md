@@ -1,1 +1,1 @@
-# Datan-k-sittely-ja-koneoppiminen
+# Datankasittely-ja-koneoppiminen
