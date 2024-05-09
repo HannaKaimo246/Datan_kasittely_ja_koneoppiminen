@@ -5,7 +5,11 @@ Olin ennen IT-alan opintoja työssä K-kaupoissa ja voisin esimerkiksi soveltaa 
 Projekstissa pyrimme kartoittamaan Helsingin kaupunkipyörätilannetta vertaamalla sitä New Yorkin kaupunkipyöräjärjestelmään. Löysimme järjestelmien datat netistä. Katsoimme pyöräasemien käyttöastetta ja pyörien käyttömääriä ja pyörämatkojen kestoaikoja. <br /> Kurssilla käytettiin Weka-alustaa. <br />
 
 ### Jäsenet:
-Hanna Kaimo
-Saku Ihalainen
-Elias Addawe
+
+<ul>
+  <li>Hanna Kaimo</li>
+  <li>Saku Ihalainen</li>
+  <li>Elias Addawe</li>
+</ul>
+
 
